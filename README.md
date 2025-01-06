@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @AkarshGaonkar
-- 👀 I’m interested in exploring the tech world
-- 🌱 I’m currently learning data structures using python
-- 💞️ I’m looking to collaborate on any project that my skills may be valuable to.
-- 📫 How to reach me please email me at akagaonkar@gmail.com
+**Context**
+This is a Complete data Analysis of a food dataset. 
+The analysis has been doen in R and multiple R packages have been used for visualization, data manipulation and predictive analysis.
+This project has been done with the assumption that I was the data analyst for a food board/restaurant ministry.
+With my knowledge in python, I would be able to recreate the project in python and I would use Tableau for visualizations.
+With my knowledge in SQL, I could also use data extraction techiques to import data.
 
-<!---
-AkarshGaonkar/AkarshGaonkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Summary**
+Part1
+This focuses on data exploration and data analysis of a restaurant dataset. It comprises three key tasks:
+1. Data Exploration and Preprocessing
+2. Descriptive Analysis, and
+3. Geospatial Analysis.
+
+Part2
+Part 2 focuses on the following tasks:
+1. Table Booking and Online Delivery
+2. Price Range Analysis, and
+3. Feature Engineering.
+
+Part3
+Part 3 focuses on the following tasks:
+1. Predictive Modelling
+2. Customer Preference Analysis, and
+3. Data Visualization.
